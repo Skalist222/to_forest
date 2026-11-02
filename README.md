@@ -4,7 +4,7 @@
 1) Рабочий серверный JSON
 /usr/local/etc/xray/config.json
 
-2)UUID, клиентский encryption, REALITY Public Key, Short ID и XHTTP-параметры.
+2) UUID, клиентский encryption, REALITY Public Key, Short ID и XHTTP-параметры.
 /root/xray-client-credentials.json
 
 3) Парная клиентская часть VLESS Encryption.
