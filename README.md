@@ -13,7 +13,7 @@
 
 **Как установить одной командой?**
 ```
-wget -qO- "https://github.com/Skalist222/to_forest/blob/main/install.sh" | bash
+wget -qO- "https://raw.githubusercontent.com/Skalist222/to_forest/main/install.sh" | bash
 ```
 
 !!!СКРИПТ И КОМАНДА ЕЩЕ НЕ ПРОТЕСТИРОВАННЫ 02.11.2026!!!
