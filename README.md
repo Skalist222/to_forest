@@ -12,5 +12,5 @@ UUID, клиентский encryption, REALITY Public Key, Short ID и XHTTP-п�
 
 Как установить одной командой?
 ```
-wget -O - https://ТУТ_БУДЕТ_ССЫЛКА_КОТОРУЮ_Я_ВСТАВЛЮ/script.sh | bash
+wget -qO- "https://github.com/Skalist222/to_forest/blob/main/install.sh" | bash
 ```
