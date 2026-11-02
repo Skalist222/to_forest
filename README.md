@@ -15,3 +15,5 @@
 ```
 wget -qO- "https://github.com/Skalist222/to_forest/blob/main/install.sh" | bash
 ```
+
+!!!СКРИПТ И КОМАНДА ЕЩЕ НЕ ПРОТЕСТИРОВАННЫ 02.11.2026!!!
