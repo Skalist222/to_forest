@@ -1,16 +1,17 @@
 # to_forest
 
 **Что появится после установки?**
+1) Рабочий серверный JSON
 /usr/local/etc/xray/config.json
-Рабочий серверный JSON
 
+2)UUID, клиентский encryption, REALITY Public Key, Short ID и XHTTP-параметры.
 /root/xray-client-credentials.json
-UUID, клиентский encryption, REALITY Public Key, Short ID и XHTTP-параметры.
 
+3) Парная клиентская часть VLESS Encryption.
 /root/xray-client-encryption.txt
-Парная клиентская часть VLESS Encryption.
 
-Как установить одной командой?
+
+**Как установить одной командой?**
 ```
 wget -qO- "https://github.com/Skalist222/to_forest/blob/main/install.sh" | bash
 ```
