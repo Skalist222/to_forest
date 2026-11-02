@@ -9,3 +9,8 @@ UUID, клиентский encryption, REALITY Public Key, Short ID и XHTTP-п�
 
 /root/xray-client-encryption.txt
 Парная клиентская часть VLESS Encryption.
+
+Как установить одной командой?
+```
+wget -O - https://ТУТ_БУДЕТ_ССЫЛКА_КОТОРУЮ_Я_ВСТАВЛЮ/script.sh | bash
+```
